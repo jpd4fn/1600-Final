@@ -19,3 +19,6 @@ I know that port 22 is open for the ssh service, therefore I can use the Medusa 
 With the information gained from running the Medusa tool, I am then able to SSH into the clone system from the Kali system. I used the ‘admin’ password found from medusa and was able to gain access into the clone system.
 
 ![SSHIntoClone](https://user-images.githubusercontent.com/60529599/205746559-f8453d54-65c3-4833-a3e3-ef07e09cf87b.png)
+
+
+[Back to Main](Main.md)
