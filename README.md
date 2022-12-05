@@ -1,1 +1,3 @@
-# 1600-Final
+## Uses of Kali Linux
+
+Kali Linux is a Debian based Linux distribution that is focused on penetration testing and other useful security tools. Kali has hundreds of tools that are focused towards a numerous amount of information security tasks (Paul 2020). For example, one of the tools that comes with Kali Linux is Nmap. This tool uses IP packets in ways that are able to determine what host are available on certain networks. I will show a use of the Nmap tool later. Another tool in Kali is the medusa tool. This is a brute-force tool that is useful in password cracking. Medusa uses a text file to brute-force passwords over a specified user. I will show an example of the uses of the Nmap and medusa tool in Kali Linux. These are not the only tools, some other include John the Ripper, Netcat and Wireshark (Day). With Kali you can explore many different security attacks and with that also learn how to defend against them. 
