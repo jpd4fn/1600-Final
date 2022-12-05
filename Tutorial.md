@@ -20,5 +20,6 @@ In this tutorial I have two systems
 
 ![SSHIntoClone](https://user-images.githubusercontent.com/60529599/205746559-f8453d54-65c3-4833-a3e3-ef07e09cf87b.png)
 
+This is a very basic way to use Kali Linux tools to scan a system and run a brute-force attack on the system to gain access into it.
 
 [Back to Main](Main.md)
